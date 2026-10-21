@@ -1,0 +1,12 @@
+# 비밀 키 — 절대 올리지 않는다
+.streamlit/secrets.toml
+
+# 파이썬·주피터가 자동으로 만드는 파일
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 예전에 만든 정적 웹페이지(지금은 Streamlit 앱을 사용)
+web/
+
+.DS_Store
